@@ -1,6 +1,7 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/jerrys-mod/files",
 	"1.19.2": {
+		"1.19.2.1": "fixed block drops"
 		"1.19.2.0": "ported and removed bloat"
 	},
 	"1.15.2": {
@@ -22,8 +23,8 @@
 		"1.12.2.1": "Rewrote for 1.12.2"
 	},
 	"promos": {
-		"1.19.2-latest": "1.19.2.0",
-		"1.19.2-recommended": "1.19.2.0",
+		"1.19.2-latest": "1.19.2.1",
+		"1.19.2-recommended": "1.19.2.1",
 		"1.15.2-latest": "1.15.2.1",
 		"1.15.2-recommended": "1.15.2.1",
 		"1.14.3-latest": "1.14.3.0",
