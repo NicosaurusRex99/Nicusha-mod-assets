@@ -1,5 +1,8 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/jarm-just-another-ruby-mod/files",
+	"1.19.3": {
+		"2.4.1": "ported"
+	},
 	"1.19.2": {
 		"2.4": "JER support and multiple fixes",
 		"2.3": "ProjectE support",
@@ -61,6 +64,8 @@
 		"1.12.2.1": "Ported to 1.12"
 	},
 	"promos": {
+		"1.19.3-latest": "2.4.1",
+		"1.19.3-recommended": "2.4.1",
 		"1.19.2-latest": "2.4",
 		"1.19.2-recommended": "2.4",
 		"1.18.2-latest": "2.1",
