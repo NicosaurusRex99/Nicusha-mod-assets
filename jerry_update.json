@@ -1,5 +1,8 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/jerrys-mod/files",
+	"1.19.3": {
+		"0.2.3": "ported"
+	},
 	"1.19.2": {
 		"1.19.2.2": "Added Isle of Dregs dimension"
 		"1.19.2.1": "fixed block drops"
@@ -24,6 +27,8 @@
 		"1.12.2.1": "Rewrote for 1.12.2"
 	},
 	"promos": {
+		"1.19.3-latest": "0.2.3",
+		"1.19.3-recommended": "0.2.3",
 		"1.19.2-latest": "1.19.2.2",
 		"1.19.2-recommended": "1.19.2.2",
 		"1.15.2-latest": "1.15.2.1",
