@@ -1,5 +1,8 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/jerrys-mod/files",
+	"1.19.4": {
+		"0.2.1": "ported"
+	},
 	"1.19.3": {
 		"0.2.4": "tag support"
 		"0.2.3": "ported"
@@ -28,6 +31,8 @@
 		"1.12.2.1": "Rewrote for 1.12.2"
 	},
 	"promos": {
+		"1.19.4-latest": "0.2.1",
+		"1.19.4-recommended": "0.2.1",
 		"1.19.3-latest": "0.2.4",
 		"1.19.3-recommended": "0.2.4",
 		"1.19.2-latest": "1.19.2.2",
