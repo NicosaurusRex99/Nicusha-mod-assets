@@ -1,0 +1,10 @@
+{
+	"homepage": "https://minecraft.curseforge.com/projects/gadget-lab/files",
+	"1.19.4": {
+		"1.0": "Initial creation"
+	},
+	"promos": {
+		"1.19.4-latest": "1.0",
+		"1.19.4-recommended": "1.0"
+	}
+}
