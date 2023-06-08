@@ -1,8 +1,14 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/jarm-just-another-ruby-mod/files",
+	"1.20": {
+		"2.6": "ported to 1.20"
+	},
+	"1.19.4": {
+		"2.5": "ported to 1.19.4"
+	},
 	"1.19.3": {
-		"2.4.3": "deepslate variants"
-		"2.4.2": "tag support"
+		"2.4.3": "deepslate variants",
+		"2.4.2": "tag support",
 		"2.4.1": "ported"
 	},
 	"1.19.2": {
@@ -66,6 +72,10 @@
 		"1.12.2.1": "Ported to 1.12"
 	},
 	"promos": {
+		"1.20-latest": "2.6",
+		"1.20-recommended": "2.6",
+		"1.19.4-latest": "2.5",
+		"1.19.4-recommended": "2.5",
 		"1.19.3-latest": "2.4.3",
 		"1.19.3-recommended": "2.4.3",
 		"1.19.2-latest": "2.4",
