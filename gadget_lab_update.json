@@ -1,5 +1,8 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/gadget-lab/files",
+	"1.21": {
+		"1.0.4": "Update"
+	},
 	"1.20.6": {
 		"1.0.3": "Recipe fix/Solid coloured blocks merge",
 		"1.0.2": "Update"
@@ -8,6 +11,8 @@
 		"1.0.0": "Initial creation"
 	},
 	"promos": {
+		"1.21-latest": "1.0.4",
+		"1.21-recommended": "1.0.4",
 		"1.20.6-latest": "1.0.3",
 		"1.20.6-recommended": "1.0.3",
 		"1.20.4-latest": "1.0.0",
