@@ -1,5 +1,8 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/jarm-just-another-ruby-mod/files",
+	"1.21.3": {
+		"2.6.5": "1.21.3 port"
+	},
 	"1.21": {
 		"2.6.4": "1.21 port"
 	},
@@ -84,6 +87,8 @@
 		"1.12.2.1": "Ported to 1.12"
 	},
 	"promos": {
+		"1.21.3-latest": "2.6.5",
+		"1.21.3-recommended": "2.6.5",
 		"1.21-latest": "2.6.4",
 		"1.21-recommended": "2.6.4",
 		"1.20.6-latest": "2.6.3",
