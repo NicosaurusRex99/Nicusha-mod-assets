@@ -1,5 +1,8 @@
 {
 	"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/rubble-ray",
+	"1.21.3": {
+		"1.6.2": "port"
+	},
 	"1.21": {
 		"1.6.1": "1.21 port"
 	},
@@ -7,8 +10,10 @@
 		"1.6": "1.20.6 port"
 	},
 	"promos": {
+		"1.21.3-latest": "1.6.2",
+		"1.21.3-recommended": "1.6.2",
 		"1.21-latest": "1.6.1",
-		"1.21-recommended": "1.6.1"
+		"1.21-recommended": "1.6.1",
 		"1.20.6-latest": "1.6",
 		"1.20.6-recommended": "1.6"
 	}
