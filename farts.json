@@ -1,5 +1,8 @@
 {
 	"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/farts/files",
+	"1.21.5": {
+		"2.0.2.2": "port"
+	},
 	"1.21.4": {
 		"2.0.2.1": "port"
 	},
@@ -13,7 +16,9 @@
 		"2.0.0": "1.20.6 port"
 	},
 	"promos": {
-		"1.214-latest": "2.0.2.1",
+		"1.21.5-latest": "2.0.2.2",
+		"1.21.5-recommended": "2.0.2.2",
+		"1.21.4-latest": "2.0.2.1",
 		"1.21.4-recommended": "2.0.2.1",
 		"1.21.3-latest": "2.0.2",
 		"1.21.3-recommended": "2.0.2",
