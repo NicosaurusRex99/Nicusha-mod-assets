@@ -1,21 +1,8 @@
 {
 	"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/rubble-ray",
-	"1.21.5": {
-		"1.6.4": "Added walls to tunnels"
-	},
-	"1.21.4": {
-		"1.6.3": "Added walls to tunnels"
-	},
-	"1.21.3": {
-		"1.6.2": "port"
-	},
-	"1.21": {
-		"1.6.1": "1.21 port"
-	},
-	"1.20.6": {
-		"1.6": "1.20.6 port"
-	},
 	"promos": {
+		"1.21.8-latest": "1.6.5",
+		"1.21.8-recommended": "1.6.5",
 		"1.21.5-latest": "1.6.4",
 		"1.21.5-recommended": "1.6.4",
 		"1.21.4-latest": "1.6.3",
