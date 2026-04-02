@@ -1,5 +1,8 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/jerrys-mod/files",
+    "26.1.1": {
+        "0.1.4": "Ported"
+    },
     "1.21.7": {
         "0.1.3": "Ported and gone back to basics"
     },
@@ -46,6 +49,8 @@
         "1.12.2.1": "Rewrote for 1.12.2"
     },
     "promos": {
+        "26.1.1-latest": "0.1.4",
+        "26.1.1-recommended": "0.1.4",
         "1.21.7-latest": "0.1.3",
         "1.21.7-recommended": "0.1.3",
         "1.21.4-latest": "0.1.1",
