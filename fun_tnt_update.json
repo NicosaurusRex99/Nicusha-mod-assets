@@ -1,14 +1,15 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/fun-tnt/files",
 	"26.1.1": {
+		"2.1": "Added 3 new variants",
 		"2.0": "Re-ignited"
 	},
 	"1.12.2": {
 		"1.12.2.0": "Released Mod"
 	},
 	"promos": {
-		"26.1.1-latest": "2.0",
-		"26.1.1-recommended": "2.0",
+		"26.1.1-latest": "2.1",
+		"26.1.1-recommended": "2.1",
 		"1.12.2-latest": "1.12.2.0",
 		"1.12.2-recommended": "1.12.2.0"
 	}
