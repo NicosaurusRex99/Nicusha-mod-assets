@@ -1,6 +1,7 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/fun-tnt/files",
 	"26.1.2": {
+		"2.8.1": "Fixed party tnt",
 		"2.8": "Added party tnt",
 		"2.7": "Added paint tnt"
 	},
@@ -17,8 +18,8 @@
 		"1.12.2.0": "Released Mod"
 	},
 	"promos": {
-		"26.1.2-latest": "2.7",
-		"26.1.2-recommended": "2.7",
+		"26.1.2-latest": "2.8.1",
+		"26.1.2-recommended": "2.8.1",
 		"26.1.1-latest": "2.6",
 		"26.1.1-recommended": "2.6",
 		"1.12.2-latest": "1.12.2.0",
