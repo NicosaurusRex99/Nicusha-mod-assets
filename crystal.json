@@ -1,0 +1,10 @@
+{
+	"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/crystal-fix",
+	"26.2": {
+		"1.0.2": "port"
+	},
+	"promos": {
+		"26.2-latest": "1.0.2",
+		"26.2-recommended": "1.0.2"
+	}
+}
