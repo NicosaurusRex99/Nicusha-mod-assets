@@ -1,5 +1,8 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/gadget-lab/files",
+	"26.2": {
+		"1.0.7": "Update"
+	},
 	"1.21.4": {
 		"1.0.6": "Fixed rebreather",
 		"1.0.5": "Update"
@@ -16,6 +19,8 @@
 		"1.0.0": "Initial creation"
 	},
 	"promos": {
+		"26.2-latest": "1.0.7",
+		"26.2-recommended": "1.0.7",
 		"1.21.4-latest": "1.0.6",
 		"1.21.4-recommended": "1.0.6",
 		"1.21-latest": "1.0.4",
