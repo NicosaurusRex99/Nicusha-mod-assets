@@ -1,6 +1,9 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/jerrys-mod/files",
-    "26.1.1": {
+    "26.2": {
+        "0.1.6": "Ported"
+    },
+	"26.1.1": {
         "0.1.5": "Tag fix",
         "0.1.4": "Ported"
     },
@@ -50,6 +53,8 @@
         "1.12.2.1": "Rewrote for 1.12.2"
     },
     "promos": {
+        "26.2-latest": "0.1.6",
+        "26.2-recommended": "0.1.6",
         "26.1.1-latest": "0.1.5",
         "26.1.1-recommended": "0.1.5",
         "1.21.7-latest": "0.1.3",
