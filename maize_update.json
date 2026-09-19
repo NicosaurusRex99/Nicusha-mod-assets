@@ -1,9 +1,14 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/maize-mod/files",
+	"26.3": {
+		"1.0.1": "Ported to 26.3"
+	},
 	"26.2": {
 		"1.0.0": "Ported to 26.2"
 	},
 	"promos": {
+		"26.3-latest": "1.0.1",
+		"26.3-recommended": "1.0.1"
 		"26.2-latest": "1.0.0",
 		"26.2-recommended": "1.0.0"
 	}
