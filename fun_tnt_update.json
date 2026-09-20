@@ -1,5 +1,11 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/fun-tnt/files",
+	"26.3": {
+		"2.12": "port"
+	},
+	"26.2": {
+		"2.10": "port"
+	},
 	"26.1.2": {
 		"2.10": "Added volcanic tnt, this one is pretty cool",
 		"2.9": "Added tooltips & thermal forge tnt",
@@ -20,11 +26,6 @@
 		"1.12.2.0": "Released Mod"
 	},
 	"promos": {
-		"26.1.2-latest": "2.10",
-		"26.1.2-recommended": "2.10",
-		"26.1.1-latest": "2.6",
-		"26.1.1-recommended": "2.6",
-		"1.12.2-latest": "1.12.2.0",
-		"1.12.2-recommended": "1.12.2.0"
+		"latest": "2.12"
 	}
 }
